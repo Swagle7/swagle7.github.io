@@ -34,9 +34,9 @@ title: Projects
                                 <p>The SIHR model is described by the following system of ordinary differential equations:</p>
                                 <div class="equations">
                                     <p>\[\frac{dS}{dt} = -p_1\beta SI\]</p>
-                                    <p>\[\frac{dI}{dt} = p_1\beta SI - p_2(p_h\gamma_1 + (1-p_h)\gamma_2)I\]</p>
-                                    <p>\[\frac{dH}{dt} = p_2p_h\gamma_1I - p_3\alpha H\]</p>
-                                    <p>\[\frac{dR}{dt} = p_2(1-p_h)\gamma_2I + p_3\alpha H\]</p>
+                                    <p>\[\frac{dI}{dt} = p_1\beta SI - p_2\gamma I]</p>
+                                    <p>\[\frac{dH}{dt} = p_2p_h\gamma I - p_3\alpha H\]</p>
+                                    <p>\[\frac{dR}{dt} = p_2(1-p_h)\gamma I + p_3\alpha H\]</p>
                                 </div>
                                 <p>where:</p>
                                 <ul>
@@ -45,8 +45,7 @@ title: Projects
                                     <li>\(H\): Hospitalized population</li>
                                     <li>\(R\): Recovered population</li>
                                     <li>\(\beta\): Transmission rate</li>
-                                    <li>\(\gamma_1\): I to H rate</li>
-                                    <li>\(\gamma_2\): I to R rate</li>
+                                    <li>\(\gamma\): I to H or R rate</li>
                                     <li>\(p_h\): Probability of I to H</li>
                                     <li>\(\alpha\): H to R rate</li>
                                     <li>\(p_1, p_2, p_3\): Probability of leaving state S,I,R respectively.</li>
