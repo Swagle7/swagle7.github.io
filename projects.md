@@ -34,7 +34,7 @@ title: Projects
                                 <p>The SIHR model is described by the following system of ordinary differential equations:</p>
                                 <div class="equations">
                                     <p>\[\frac{dS}{dt} = -p_1\beta SI\]</p>
-                                    <p>\[\frac{dI}{dt} = p_1\beta SI - p_2\gamma I]</p>
+                                    <p>\[\frac{dI}{dt} = p_1\beta SI - p_2\gamma I\]</p>
                                     <p>\[\frac{dH}{dt} = p_2p_h\gamma I - p_3\alpha H\]</p>
                                     <p>\[\frac{dR}{dt} = p_2(1-p_h)\gamma I + p_3\alpha H\]</p>
                                 </div>
