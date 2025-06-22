@@ -1,5 +1,5 @@
 # Site settings
-title: Shtinkhal Wagle
+title: Shrinkhal Wagle
 email: swagle@crimson.ua.edu
 description: >-
   Mathematics student at The University of Alabama
@@ -85,7 +85,7 @@ nav_order:
   - name: Research
     url: /research
   - name: CV
-    url: /assets/cv.pdf
+    url: /assets/CV.pdf
 
 exclude:
   - Gemfile
