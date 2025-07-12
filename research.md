@@ -30,8 +30,9 @@ title: Research
                 <div class="card-body">
                     <div class="research-item mb-4">
                         <h4>Differential Equations using PINN</h4>
+                        <h5>Advisor: Dr. Prabhakar Clement</h5>
                         <p class="text-muted">2024</p>
-                        <p>Solving differential equations arising in groundwater flow problems using Physics-Infused Neural Networks. Presented on EWRI Congress 2024</p>
+                        <p>Solving differential equations in groundwater flow problems using Physics-Informed Neural Networks. Presented on EWRI Congress 2024</p>
                     </div>
                 </div>
             </div>
