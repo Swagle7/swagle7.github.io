@@ -23,28 +23,18 @@ title: Research
                 </div>
             </div>
 
-            <!-- <div class="card mb-4">
+            <div class="card mb-4">
                 <div class="card-header">
                     <h3>Past Research Experience</h3>
                 </div>
                 <div class="card-body">
                     <div class="research-item mb-4">
-                        <h4>Game of Cycles on Maximal Plane Graphs</h4>
+                        <h4>Differential Equations using PINN</h4>
                         <p class="text-muted">2024</p>
-                        <p>Research on combinatorial game theory under guidance of Professor Malgorzata Marciniak, focusing on the analysis of Game of Cycles played on maximal plane graphs. This work was presented at CUNY Undergraduate Research Day 2024 and MathFest 2024.</p>
-                    </div>
-                    <div class="research-item mb-4">
-                        <h4>PolyMath Jr Project</h4>
-                        <p class="text-muted">2023</p>
-                        <p>Worked under Dr. Victor H. Moll on analyzing and documenting integrals involving Bessel functions for the Gradshteyn and Ryzhik handbook. This research was presented at JMM 2024 and published in Scientia Series A: Mathematical Sciences.</p>
-                    </div>
-                    <div class="research-item mb-4">
-                        <h4>Continued Fractions and a-Fibonacci Numbers</h4>
-                        <p class="text-muted">2023</p>
-                        <p>Worked with Professor Cheng-Han Pan on investigating the relationships between continued fractions, a-Fibonacci numbers, and the middle b-noise, resulting in a publication in Mathematics Exchange.</p>
+                        <p>Solving differential equations arising in groundwater flow problems using Physics-Infused Neural Networks. Presented on EWRI Congress 2024</p>
                     </div>
                 </div>
-            </div> -->
+            </div>
 
             <!-- <div class="card mb-4">
                 <div class="card-header">
